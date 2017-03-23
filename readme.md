@@ -1,5 +1,7 @@
 This project may help you to get idea about how to structured your REST API project and use popular python library on your Flask application. Main goal is to know how to integrate webargs, marshmallow, flask-security, flask-sqlalchemy, mysql together in Flask app.
 
+**Note:** Feel free to clone and try but change settings.py mail configuration before begin using it.
+
 > **Note:**
 Usability of this project is not that much. But some core idea of working with flask would be very helpful to know.
 
@@ -7,7 +9,7 @@ Usability of this project is not that much. But some core idea of working with f
 > - Custom password reseting and changing process
 > - Approach to replace flask-restful
 > - Built to implement with Mobile & AngularJS Application in future
-
+> - A video series will be available soon
 
 Features
 --
@@ -49,3 +51,6 @@ Screenshots
 ![Create Note](http://image.prntscr.com/image/a568b13451474007a30161d87b189dfd.png)
 
 ![View All Notes](http://image.prntscr.com/image/d6a93ca9989b405c9a2d92d1d1aa165e.png)
+
+
+
